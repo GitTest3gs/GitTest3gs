@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sunil23</h1>
 <h3 align="center">A passionate Devops guy</h3>
-<img align="right"  width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/development-operations-3573108-2995025.mp4?h=700">
+<img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gittest3gs&label=Profile%20views&color=0e75b6&style=flat" alt="gittest3gs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gittest3gs" alt="gittest3gs" /></a> </p>
